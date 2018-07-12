@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sk" xml:lang="sk" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\randonie\Documents\My Translated Projects\e4.liprjf" SourceControlDatabase="C:\Users\randonie\Documents\My Translated Projects\e4.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="3bfdef2c-32d0-49a7-a149-04d4cf1627fe">
+    <ProjectFile Source="Target/flare project2.flprj" Target="Target/flare project2.flprj" />
+</LingoProject>
